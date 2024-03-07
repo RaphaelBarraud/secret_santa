@@ -1,0 +1,7 @@
+backend/.venv/
+backend/secret_santa/participant/__pycache__/
+backend/secret_santa/participant/migrations/__pycache__/
+backend/secret_santa/secret_santa/__pycache__/
+backend/secret_santa/db.sqlite3
+backend/secret_santa/draw/__pycache__/
+backend/secret_santa/draw/migrations/__pycache__/
